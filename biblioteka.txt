@@ -1,3 +1,7 @@
 lista filmow z rokiem produkcji:
-- Batman (2021)
-- Sumatra (2000)
+- Batman 2021 triller 2
+- Sumatra 2000 sf 2
+- Simpsonowie 1990 kreskowka 0
+- Moda na sukces 1900 popularno-naukowy 0
+- Solaris 2028 komedia 0
+- Miœ Koralgol 2021 kreskowka 0
